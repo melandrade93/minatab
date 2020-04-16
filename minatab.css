@@ -1,5 +1,5 @@
 .minatrackpic { border: 1px solid #dedede; padding: 3px; background-color: #fff; width: 300px; height: 150px; margin: 5px auto 20px auto; }
-.minatrackscroll { width: 300px; margin: 10px auto 10px auto; height: 186px; padding: 0px 5px 0px 0px; text-align: justify; font-family: Calibri; font-size: 11px; line-height: 12px; color: #000; text-transform: lowercase; overflow: auto; }
+.minatrackscroll { width: 350px; margin: 10px auto 10px auto; height: 450px; padding: 0px 5px 0px 0px; text-align: justify; font-family: Calibri; font-size: 11px; line-height: 12px; color: #000; text-transform: lowercase; overflow: auto; }
 .minatrackscroll::-webkit-scrollbar { width: 12px; }
 .minatrackscroll::-webkit-scrollbar-track { width: 12px; background-color: #ffffff; }
 .minatrackscroll::-webkit-scrollbar-thumb { width: 12px; background-color: #000000; border: 3px double #ffffff; }
@@ -11,12 +11,10 @@
 .minalinks { width: 300px; margin-top: 10px; margin-bottom: 10px; }
 .minalinks a { width: auto; height: 15px; padding: 2px 6px 2px 6px; background-color: #222; color: #fff; font-family: Calibri; font-size: 9.5px; line-height: 15px; letter-spacing: 2px; margin-top: 10px; margin-left: 2px; margin-bottom: 5px; margin-right: 2px; text-align: center; font-weight: bold; }
 
-.minacontainer {
- margin: 5px; 
- height: 450px;
- width: 350px;
+ margin: 10px auto; 
+ height: auto;
+ width: auto;
 }
-
 .minatabs {
  margin: 0px auto; 
  position: relative;
