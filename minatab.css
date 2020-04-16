@@ -1,5 +1,5 @@
 .minatrackpic { border: 1px solid #dedede; padding: 3px; background-color: #fff; width: 300px; height: 150px; margin: 5px auto 20px auto; }
-.minatrackscroll { width: 350px; margin: 10px auto 10px auto; height: 450px; padding: 0px 5px 0px 0px; text-align: justify; font-family: Calibri; font-size: 11px; line-height: 12px; color: #000; text-transform: lowercase; overflow: auto; }
+.minatrackscroll { width: 300px; margin: 10px auto 10px auto; height: 450px; padding: 0px 5px 0px 0px; text-align: justify; font-family: Calibri; font-size: 11px; line-height: 12px; color: #000; text-transform: lowercase; overflow: auto; }
 .minatrackscroll::-webkit-scrollbar { width: 12px; }
 .minatrackscroll::-webkit-scrollbar-track { width: 12px; background-color: #ffffff; }
 .minatrackscroll::-webkit-scrollbar-thumb { width: 12px; background-color: #000000; border: 3px double #ffffff; }
