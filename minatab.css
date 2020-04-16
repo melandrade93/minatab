@@ -1,15 +1,15 @@
 .minatrackpic { border: 1px solid #dedede; padding: 3px; background-color: #fff; width: 300px; height: 150px; margin: 5px auto 20px auto; }
-.minatrackscroll { width: 300px; margin: 10px auto 10px auto; height: 320px; padding: 0px 5px 0px 0px; text-align: justify; font-family: Calibri; font-size: 11px; line-height: 12px; color: #000; text-transform: lowercase; overflow: auto; }
+.minatrackscroll { width: 300px; margin: 10px auto 10px auto; height: 320px; padding: 0px 5px 0px 0px; text-align: justify; font-family: verdana; font-size: 11px; line-height: 12px; color: #000; text-transform: lowercase; overflow: auto; }
 .minatrackscroll::-webkit-scrollbar { width: 12px; }
 .minatrackscroll::-webkit-scrollbar-track { width: 12px; background-color: #ffffff; }
 .minatrackscroll::-webkit-scrollbar-thumb { width: 12px; background-color: #000000; border: 3px double #ffffff; }
 .minaline { border-top: 1px solid #111; width: 305px; height: 2px; margin: 10px auto 15px auto;  }
-.minhead { font-family: Raleway Black;  text-align: right; letter-spacing: 2px; padding-bottom: 4px; border-bottom: 1px solid #dedede; font-size: 12px; color: #111; text-transform: uppercase; font-weight: bold; margin-bottom: 5px; }
-.minthreadlinks { font-family: Calibri; font-size: 11px; line-height: 12px; color: #111; white-space: pre-line; }
-.minthreadlinks a {  font-weight: bold!important; font-size: 11.5px; color: #111!important; font-family: Calibri!important; text-transform: lowercase!important }
-.minname { font-weight: bold; font-family: Raleway Black; text-align: center; font-size: 20px; font-weight: bold; color: #111; margin-top: 18px; letter-spacing: 5px; width: 300px; margin-left: auto; margin-right: auto; }
+.minhead { font-family: Verdana;  text-align: right; letter-spacing: 2px; padding-bottom: 4px; border-bottom: 1px solid #dedede; font-size: 12px; color: #111; text-transform: uppercase; font-weight: bold; margin-bottom: 5px; }
+.minthreadlinks { font-family: Verdana; font-size: 11px; line-height: 12px; color: #111; white-space: pre-line; }
+.minthreadlinks a {  font-weight: bold!important; font-size: 11.5px; color: #111!important; font-family: Verdana!important; text-transform: lowercase!important }
+.minname { font-weight: bold; font-family: Verdana; text-align: center; font-size: 20px; font-weight: bold; color: #111; margin-top: 18px; letter-spacing: 5px; width: 300px; margin-left: auto; margin-right: auto; }
 .minalinks { width: 300px; margin-top: 10px; margin-bottom: 10px; }
-.minalinks a { width: auto; height: 15px; padding: 2px 6px 2px 6px; background-color: #222; color: #fff; font-family: Calibri; font-size: 9.5px; line-height: 15px; letter-spacing: 2px; margin-top: 10px; margin-left: 2px; margin-bottom: 5px; margin-right: 2px; text-align: center; font-weight: bold; }
+.minalinks a { width: auto; height: 15px; padding: 2px 6px 2px 6px; background-color: #222; color: #fff; font-family: Verdana; font-size: 9.5px; line-height: 15px; letter-spacing: 2px; margin-top: 10px; margin-left: 2px; margin-bottom: 5px; margin-right: 2px; text-align: center; font-weight: bold; }
 
 .minacontainer {
  margin: 10px auto; 
@@ -37,7 +37,7 @@
  background: #111;
 border-bottom: 1px solid #dedede; border-right: 1px solid #fff;
 color: #fff;
-font-family: Raleway Black;
+font-family: Verdana;
 font-weight: bold;
 font-size: 11px;
 letter-spacing: 3px;
