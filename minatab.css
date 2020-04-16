@@ -93,4 +93,9 @@ transform: scale(1); -webkit-transform: scale(1); -o-transform: scale(1); -moz-t
          url('http://files.jcink.net/uploads/banquo/raleway_black.woff2') format('woff2'),
          url('http://files.jcink.net/uploads/banquo/raleway_black.woff') format('woff'),
          url('http://files.jcink.net/uploads/banquo/raleway_black.ttf') format('truetype'),
+         url('http://files.jcink.net/uploads/banquo/raleway_black.woff2') format('woff2'),
+         url('http://files.jcink.net/uploads/banquo/raleway_black.woff') format('woff'),
+         url('http://files.jcink.net/uploads/banquo/raleway_black.ttf') format('truetype'),
+         url('http://files.jcink.net/uploads/banquo/raleway_black.woff') format('woff'),
+         url('http://files.jcink.net/uploads/banquo/raleway_black.ttf') format('truetype'),
          url('http://files.jcink.net/uploads/banquo/raleway_black.svg#ralewayblack') format('svg'); }
