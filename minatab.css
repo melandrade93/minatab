@@ -88,9 +88,9 @@ transform: scale(1); -webkit-transform: scale(1); -o-transform: scale(1); -moz-t
 .minacredit a { text-align: center; font-family: Raleway Black; font-weight: bold; font-size: 9px; letter-spacing: 2px; line-height: 10px; text-transform: uppercase; }
 @font-face {
     font-family: 'Raleway Black'; font-weight: bold; font-style: normal;
-    src: url('http://files.jcink.net/uploads/banquo/raleway_black.eot');
-    src: url('http://files.jcink.net/uploads/banquo/raleway_black.eot?#iefix') format('embedded-opentype'),
-        url('http://files.jcink.net/uploads/banquo/raleway_black.woff2') format('woff2'),
-         url('http://files.jcink.net/uploads/banquo/raleway_black.woff') format('woff'),
-         url('http://files.jcink.net/uploads/banquo/raleway_black.ttf') format('truetype'),
-         url('http://files.jcink.net/uploads/banquo/raleway_black.svg#ralewayblack') format('svg'); }
+    src: url('');
+    src: url('') format('embedded-opentype'),
+        url('') format('woff2'),
+         url('') format('woff'),
+         url('') format('truetype'),
+         url('') format('svg'); }
